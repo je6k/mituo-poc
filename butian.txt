@@ -1,0 +1,2 @@
+butian . bug-test 白帽子
+<?php phpinfo();?>
